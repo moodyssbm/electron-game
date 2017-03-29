@@ -14,4 +14,8 @@ app.on('ready', function() {
   let win = new BrowserWindow(winOpts);
 
   win.loadURL(`file://${__dirname}/index.html`);
+
+  if(debugMode) {
+    win.webContents.openDevTools();
+  }
 });
