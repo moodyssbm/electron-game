@@ -1,0 +1,20 @@
+{
+  "name": "electron-game",
+  "version": "1.0.0",
+  "description": "The end goal of this repo is to have a playable game working in electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moodyssbm/electron-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moodyssbm/electron-game/issues"
+  },
+  "homepage": "https://github.com/moodyssbm/electron-game#readme"
+}
