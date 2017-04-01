@@ -1,6 +1,8 @@
 body {
-  color: #19f541;
-  background: black;
-  font-family: Helvetica, sans-serif; }
+  font: 1em Helvetica, sans-serif;
+  background: black; }
+
+#container {
+  color: pink; }
 
 /*# sourceMappingURL=main.css.map */

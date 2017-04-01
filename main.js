@@ -8,7 +8,7 @@ const winOpts = {
 }
 
 // switch this to true to enable debug mode
-const debugMode = false;
+const debugMode = true;
 
 app.on('ready', function() {
   let win = new BrowserWindow(winOpts);
