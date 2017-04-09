@@ -1,7 +1,6 @@
 # electron-game
 
 The main goal of this project is to get a simple game (of any kind) up and running in the Electron engine.
-
 I will be updating this readme as the project progresses.
 
 ### April 1st, 2017
